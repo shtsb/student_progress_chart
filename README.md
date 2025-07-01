@@ -1,6 +1,6 @@
 # student progress chart 
 
-# This project concerns a class that has been tested on students over a two month period .
+This project concerns a class that has been tested on students over a two month period .
 we want to examine the progress of student's scores over these two month .
 
 # Data Source
