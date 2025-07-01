@@ -6,6 +6,6 @@ we want to examine the progress of student's scores over these two month .
 # Data Source
 created by the author for the purpose of learning.
 
-# Method 
+# Method  
 -Language : Python
 -Libraries : pandas , numpy , matplotlib
